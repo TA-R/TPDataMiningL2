@@ -1,0 +1,32 @@
+[
+  {
+    "title": "the batman",
+    "year": 2010,
+    "rating": 8.8,
+    "genre": "Sci-Fi"
+  },
+  {
+    "title": "The Matrix",
+    "year": 1999,
+    "rating": 8.7,
+    "genre": "Action"
+  },
+  {
+    "title": "silo",
+    "year": 2014,
+    "rating": 8.6,
+    "genre": "Sci-Fi"
+  },
+  {
+    "title": "prisoners",
+    "year": 2008,
+    "rating": 9.0,
+    "genre": "Action"
+  },
+  {
+    "title": "zodiac",
+    "year": 1997,
+    "rating": 7.9,
+    "genre": "Romance"
+  }
+]
